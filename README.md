@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Puneeth Kumar
 
-🎓 2nd Year B.Tech CSE Student (AI & ML)  
+🎓 3rd Year B.Tech CSE Student (AI & ML)  
 💻 Passionate about Web Development & Software Engineering  
 🚀 Currently learning Python, Java, SQL and building real-world projects  
 🌟 Open to Internship opportunities
